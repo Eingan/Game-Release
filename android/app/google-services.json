@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "390262035446",
+    "project_id": "gamerelease-c997a",
+    "storage_bucket": "gamerelease-c997a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390262035446:android:44b9498ed3aaa891acedd7",
+        "android_client_info": {
+          "package_name": "com.example.game_release"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuLn9L_99fBe8fftLlrO_vRvh_0QL7EOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
