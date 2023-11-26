@@ -1,0 +1,510 @@
+{
+    "everything": {
+        "games": {
+            "January": {
+                "1": {
+                    "game_name": "One Piece Odyssey",
+                    "genre": "RPG",
+                    "release_date": "Jan 13",
+                    "platform": "PS5, PS4, Xbox Series X|S, Xbox One, PC",
+                    "description": "One Piece Odyssey is a turn-based role-playing game in which players control Monkey D. Luffy and the Straw Hat Pirates. Every playable character has a unique ability in line with their powers, which are used for traversal, collecting items, and solving puzzles.",
+                    "image": "https://drive.google.com/uc?export=view&id=12jtQKxvlQJXRPCw2hU22pYhCdpioUYat"
+                },
+                "2": {
+                    "game_name": "A Space For The Unbound",
+                    "genre": "Adventure",
+                    "release_date": "Jan 19",
+                    "platform": "PS5, PS4, Xbox Series X|S, Xbox One, PC",
+                    "description": "A Space for the Unbound is a slice-of-life adventure game with beautiful pixel art set in the late 90s rural Indonesia that tells a story about overcoming anxiety, depression, and the relationship between a boy and a girl with supernatural powers.",
+                    "image": "https://drive.google.com/uc?export=view&id=1bcGMpwrDkYPWSUY8_ynDdLsZVjXR-qtq"
+                },
+                "3": {
+                    "game_name": "Colossal Cave",
+                    "genre": "Adventure",
+                    "release_date": "Jan 19",
+                    "platform": "PS5, Xbox Series X|S, Switch, Quest, PC",
+                    "description": "Colossal Cave Adventure (also known as Adventure or ADVENT) is a text-based adventure game, released in 1976 by developer Will Crowther for the PDP-10 mainframe computer. It was expanded upon in 1977 by Don Woods. In the game, the player explores a cave system rumored to be filled with treasure and gold.",
+                    "image": "https://drive.google.com/uc?export=view&id=1I_m06O1CVvp4nNXoBc4sXDNMKhpXtKFF"
+                },
+                "4": {
+                    "game_name": "Persona 4 Golden",
+                    "genre": "RPG",
+                    "release_date": "Jan 19",
+                    "platform": "Switch, PC, PS4, Xbox Series X|S, Xbox One",
+                    "description": "Persona 4 Golden, abbreviated as P4G, and also titled Persona 4: The Golden in Japan, is an enhanced re-release of Persona 4, which launched for the PlayStation Vita. The port adds a variety of new content and convenience features to update the original game, extending its replay value. Golden was adapted into an anime, Persona 4 The Golden Animation.",
+                    "image": "https://drive.google.com/uc?export=view&id=1yeNzy1AHRpVU5ozhIYIi91sLbN3ekP1K"
+                },
+                "5": {
+                    "game_name": "Warlander",
+                    "genre": "MOBA,Strategy",
+                    "release_date": "Jan 24",
+                    "platform": "PC",
+                    "description": "Innovative Genre Hybrid Combining elements of MOBA, RPG and Hack & Slash, Warlander offers an action-packed battle experience you haven't seen before. Compete with up to 100 players in a stylish medieval fantasy world, marked by war over magical entities, known as Cores.",
+                    "image": "https://drive.google.com/uc?export=view&id=1PefJ2U0Y8tDFzg9U6Q5JEhvo1x8VaIda"
+                }
+            },
+            "February": {
+                "6": {
+                    "game_name": "Hogwarts Legacy",
+                    "genre": "Role-Playing",
+                    "release_date": "Feb 7",
+                    "platform": "PlayStation 5, Xbox Series X|S, PC",
+                    "description": "Hogwarts Legacy is an immersive, open-world action RPG set in the world first introduced in the Harry Potter books. For the first time, experience Hogwarts in the 1800s. Your character is a student who holds the key to an ancient secret that threatens to tear the wizarding world apart.",
+                    "image": "https://drive.google.com/uc?export=view&id=15RLzKAPUG_0UmQtalUdHo-hM7F5FVQr1"
+                },
+                "7": {
+                    "game_name": "Atomic Heart",
+                    "genre": "Action3D,First-Person,Shooter",
+                    "release_date": "Feb 21",
+                    "platform": "PS5, PS4, Xbox Series X|S, Xbox One, PC",
+                    "description": "Atomic Heart is an adventure role-playing action game with a closed world, which takes place in an alternative Soviet Union of 1955. Science, equality and fraternity are the main symbols of Freedom in this reality. But what kind of effort does it take to build an ideal society? And what is the price of such a society?",
+                    "image": "https://drive.google.com/uc?export=view&id=157ToXrq_NX0O8Q2T1Bfgj6PH_tJHp2X-"
+                },
+                "8": {
+                    "game_name": "Like a Dragon: Ishin",
+                    "genre": "Adventure,Action",
+                    "release_date": "Feb 18",
+                    "platform": "PS5, PS4, Xbox Series X|S, Xbox One, PC",
+                    "description": "Like a Dragon: Ishin! follows a young samurai named Sakamoto Ryōma, based on the real-life person who lived during Japan's Bakumatsu era — a pivotal time in the mid-1800s when the ruling shogunate crumbled ahead of the Meiji Restoration.",
+                    "image": "https://drive.google.com/uc?export=view&id=1UcgemL6uM6Qj2rm15-wPjcA3PctpS3ki"
+                },
+                "9": {
+                    "game_name": "Sons of the Forest",
+                    "genre": "3D,Action,Adventure,Survival",
+                    "release_date": "Feb 23",
+                    "platform": "PC",
+                    "description": "Sons of the Forest is a survival horror game, where you crash-land on a remote island filled with cannibals and mutants. Craft recipes, build bases, and explore the island to find special equipment and uncover its mysteries.",
+                    "image": "https://drive.google.com/uc?export=view&id=1b9TjkR87raLHl_06ZLTQRFzay_m-O_O3"
+                },
+                "10": {
+                    "game_name": "Octopath Traveler II",
+                    "genre": "Role-Playing",
+                    "release_date": "Feb 24",
+                    "platform": "Switch, PS5, PS4, PC",
+                    "description": "OCTOPATH TRAVELER II is set in the world of Solistia - a vibrant setting that's comprised of Eastern and Western continents divided by the sea. It's a time of trade and industrial revolution - large vessels navigate busy sea routes, and the power of steam has given birth to new technologies.",
+                    "image": "https://drive.google.com/uc?export=view&id=1E0meOFzoCc00VqYJueCgCgz1EwTzruun"
+                }
+            },
+            "March": {
+                "11": {
+                    "game_name": "Peaky Blinders: The King's Ransom",
+                    "genre": "Action,Adventure",
+                    "release_date": "Mar 9",
+                    "platform": "Quest, PC VR",
+                    "description": "Turning to infamous crime boss Tommy Shelby (Cillian Murphy) for help, you become embroiled in the hunt for Winston Churchill's Red Box: a briefcase containing the identities of every British agent around the globe. As you're drawn deeper into England's criminal underworld, you find yourself at war once again.",
+                    "image": "https://drive.google.com/uc?export=view&id=1ZxveYivhwu05ZehxxPY5Z_BpuZA9nlCw"
+                },
+                "12": {
+                    "game_name": "Valheim",
+                    "genre": "Action,Adventure",
+                    "release_date": "Mar 14",
+                    "platform": "Xbox Series X|S, Xbox One",
+                    "description": "Valheim is a brutal exploration and survival game for 1-10 players set in a procedurally-generated world inspired by Norse mythology. Craft powerful weapons, construct longhouses, and slay mighty foes to prove yourself to Odin!",
+                    "image": "https://drive.google.com/uc?export=view&id=1MZIAKltuDrTxVekgOuzBYWqb5PUPzgjW"
+                },
+                "13": {
+                    "game_name": "Atelier Ryza 3: Alchemist of the End & The Secret Key",
+                    "genre": "Role-Playing",
+                    "release_date": "Mar 24",
+                    "platform": "Switch, PS4, PS5, PC",
+                    "description": "Atelier Ryza 3: Alchemist of the End & the Secret Key is a role-playing video game developed by Gust. It is the twenty-fourth main entry in the Atelier series, the third and final game of the Secret storyline, featuring the same protagonist from the two previous installments and celebrating the 25th anniversary of the franchise. The game was released on March 23, 2023, in Japan for PlayStation 4, PlayStation 5 and Nintendo Switch, with an English subtitled version released on March 24, 2023, in Europe and North America alongside a Microsoft Windows version for all three regions.",
+                    "image": "https://drive.google.com/uc?export=view&id=1BjWLNZBuh0pwOO350ohafqKjPU-tnUk4"
+                },
+                "14": {
+                    "game_name": "Resident Evil 4 Remake",
+                    "genre": "Survival,3D,Adventure,Action",
+                    "release_date": "Mar 24",
+                    "platform": "PS5, Xbox Series X|S, PC",
+                    "description": "It is a remake of the 2005 game Resident Evil 4. Players control the US agent Leon S. Kennedy, who must save Ashley Graham, the daughter of the United States president, from the mysterious Los Illuminados cult. The remake has an updated plot, new visuals, characters, cast, and altered gameplay.",
+                    "image": "https://drive.google.com/uc?export=view&id=1NbsicwCjLrNxAH77Dv9vHuD4Nf4Ldk_f"
+                },
+                "15": {
+                    "game_name": "Troublemaker",
+                    "genre": "3D,Action,Beat-'Em-Up",
+                    "release_date": "Mar 31",
+                    "platform": "PC,XONE,XBSX",
+                    "description": "Grab a backpack, boxing tape, and focus on what high school is all about: Beating the ever loving crap out of one another! Troublemaker blends favorite action-adventure-beat-'em-up elements from the strongest traditions in the genre.",
+                    "image": "https://drive.google.com/uc?export=view&id=17dNbnExVdjRbKnRWp-LHZNl6iI8VRjII"
+                }
+            },
+            "April": {
+                "16": {
+                    "game_name": "Sherlock Holmes: The Awakened",
+                    "genre": "Adventure,3D,Third-Person",
+                    "release_date": "Apr 11",
+                    "platform": "PS5, PS4, Xbox Series X|S, Xbox One, PC",
+                    "description": "Sherlock Holmes: The Awakened is an adventure video game developed by Frogwares and published in 2007 for Microsoft Windows. The game follows an original plotline as Sherlock Holmes and his companion Dr. John H. Watson investigate a series of strange disappearances related to the Cthulhu Mythos.",
+                    "image": "https://drive.google.com/uc?export=view&id=1QqAO1nfXS0dMBHJC2wWQja-kriX0-yha"
+                },
+                "17": {
+                    "game_name": "Sokolor",
+                    "genre": "Action,Puzzle",
+                    "release_date": "Apr 13",
+                    "platform": "Xbox Series X|S, Xbox One, Switch, PC",
+                    "description": "Sokolor is a sokoban game with innovative mechanics. Push the colored cubes into their correct positions, but first you need to paint yourself the same color to be able to push them!",
+                    "image": "https://drive.google.com/uc?export=view&id=1jhrCrbm8An2YtqG7NlpHdgGAqiZF72Vh"
+                },
+                "18": {
+                    "game_name": "Mega Man Battle Network Legacy Collection",
+                    "genre": "Compilation",
+                    "release_date": "Apr 13",
+                    "platform": "Switch, PS4, PC",
+                    "description": "Mega Man Legacy Collection is a series of video game compilations based on Capcom's Mega Man franchise. Each compilation features several playable video games from one of the Mega Man sub-series and adds new gameplay features and bonus content such as concept artwork. These compilations were developed internally at Capcom and were released between 2015–2023 for Nintendo Switch, PlayStation 4, Windows, and Xbox One, with the exception of the original Legacy Collection which was developed by Digital Eclipse and also released on Nintendo 3DS.",
+                    "image": "https://drive.google.com/uc?export=view&id=1WWg9qerJowcdW-GC-miZ77kjx5SasYnl"
+                },
+                "19": {
+                    "game_name": "The Mageseeker: A League of Legends Story",
+                    "genre": "Role-Playing,Action",
+                    "release_date": "Apr 18",
+                    "platform": "PS5, PS4, Xbox Series X|S, Xbox One, Switch, PC",
+                    "description": "The Mageseeker: A League of Legends Story From Digital Sun, creators of Moonlighter, The Mageseeker is an action RPG in the League of Legends universe. Play as Sylas, a mage now freed from years in captivity. Wield the chains that once bound you and liberate Demacia from the Mageseekers' tyranny.",
+                    "image": "https://drive.google.com/uc?export=view&id=1m1AaTeTXecMzUYlPWfzEwHGZ0aLBzxrj"
+                },
+                "20": {
+                    "game_name": "Star Wars Jedi: Survivor",
+                    "genre": "Action,Adventure",
+                    "release_date": "Apr 27",
+                    "platform": "PS5, Xbox Series X|S, PC",
+                    "description": "Star Wars Jedi: Survivor takes place five years after the events of Fallen Order. The game follows Jedi Knight Cal Kestis (Cameron Monaghan) as he fights the Empire while searching for a place to hide from them.",
+                    "image": "https://drive.google.com/uc?export=view&id=1GP2Wtfmht1w-y3SRx6dbnX7MzYZnEFlz"
+                }
+            },
+            "May": {
+                "21": {
+                    "game_name": " City of Beats",
+                    "genre": "Shooter,2D,Action,Fixed-Screen",
+                    "release_date": "May 1",
+                    "platform": "PC,NS",
+                    "description": "City of Beats is a rhythmic rogue-lite shooter where you explore the ever-changing skyline of a city driven by music. Get into a zen-like flow state during combat, where every action is synced to the beat. Shoot, groove, loot, upgrade, repeat. City of Beats is releasing in Q2 2023 and a demo is available now on Steam.",
+                    "image": "https://drive.google.com/uc?export=view&id=1URSaDxopXDAMFJ5gHiaubF5hQGZ7Uhl1"
+                },
+                "22": {
+                    "game_name": "Hogwarts Legacy",
+                    "genre": "Role-Playing",
+                    "release_date": "May 5",
+                    "platform": "PS4, Xbox One",
+                    "description": " Hogwarts Legacy is an immersive, open-world action RPG set in the world first introduced in the Harry Potter books. For the first time, experience Hogwarts in the 1800s. Your character is a student who holds the key to an ancient secret that threatens to tear the wizarding world apart.",
+                    "image": "https://drive.google.com/uc?export=view&id=15RLzKAPUG_0UmQtalUdHo-hM7F5FVQr1"
+                },
+                "23": {
+                    "game_name": "The Legend of Zelda: Tears of the Kingdom",
+                    "genre": "Adventure,Action",
+                    "release_date": "May 12",
+                    "platform": "Switch",
+                    "description": "Tears of the Kingdom retains the open-world action-adventure gameplay of Breath of the Wild (2017). As Link, players explore Hyrule and two new areas; the sky, which is littered with numerous floating islands, and the Depths, a vast underground area beneath Hyrule, to find weapons and resources and complete quests.",
+                    "image": "https://drive.google.com/uc?export=view&id=1l9aZ3Az1T_JUU7ZmM2TLaSX6a4RjItTw"
+                },
+                "24": {
+                    "game_name": "Star Trek: Resurgence",
+                    "genre": "3D,Adventure,Third-Person",
+                    "release_date": "May 23",
+                    "platform": "PS5, PS4, Xbox Series X|S, Xbox One, PC",
+                    "description": "Summary. Star Trek: Resurgence is an interactive narrative video game that tells an original story set in the era shortly after the events of Star Trek: The Next Generation. Unravel a sinister mystery involving two alien civilizations on the brink of war!",
+                    "image": "https://drive.google.com/uc?export=view&id=1g3dAFSHiIjgLOwbD-xgiM8skdg8o3HTq"
+                },
+                "25": {
+                    "game_name": "Hello Neighbor: Search & Rescue",
+                    "genre": "Adventure,Survival,VR,3D,Action",
+                    "release_date": "May 25",
+                    "platform": "PSVR 2",
+                    "description": "Hello Neighbor: Search and Rescue is a groundbreaking VR horror-puzzle game where you sneak into your creepy neighbor's house to save your friend. Multiple playable characters: Switch between characters to outsmart the AI. Each unique character has their own key items and skills.",
+                    "image": "https://drive.google.com/uc?export=view&id=1dgI0ll7GOIgquPN0cW2mtlkaerjwhGBi"
+                }
+            },
+            "June": {
+                "26": {
+                    "game_name": "Street Fighter 6",
+                    "genre": "Action,Fighting,2D",
+                    "release_date": "June 2",
+                    "platform": "PS5, PS4, Xbox Series X|S, PC",
+                    "description": "Street Fighter 6 offers a highly evolved combat system with three control types - Classic, Modern and Dynamic - allowing you to quickly play to your skill level. The new Real Time Commentary Feature adds all the hype of a competitive match as well as easy-to-understand explanations about your gameplay.",
+                    "image": "https://drive.google.com/uc?export=view&id=1VchOoLGDiYttoyRPyXFCNYlY6RQkBuXX"
+                },
+                "27": {
+                    "game_name": "Diablo IV",
+                    "genre": "Action,Role-Playing",
+                    "release_date": "June 6",
+                    "platform": "PS5, PS4, Xbox Series X|S, Xbox One, PC",
+                    "description": "Diablo 4 is an action role-playing game featuring multiple Classes that players can choose from to fight the relentless armies of Hell. Each of these iconic classes focus on powerful hero archetypes that can use mighty abilities to control the battlefield and tear foes apart.",
+                    "image": "https://drive.google.com/uc?export=view&id=1KQmzW1zSdSiQLoMlXy3c7S09y79QjovG"
+                },
+                "28": {
+                    "game_name": "Final Fantasy XVI",
+                    "genre": "Role-Playing,Action",
+                    "release_date": "June 22",
+                    "platform": "PS5",
+                    "description": "Final Fantasy XVI is an action role-playing game in which players take control of protagonist Clive Rosfield and a rotating party of AI-controlled companions through segmented open areas across the continents of Valisthea.",
+                    "image": "https://drive.google.com/uc?export=view&id=1lKuLpodf7ajfDYulwqtGNJK1KQNB6z4d"
+                },
+                "29": {
+                    "game_name": "Story of Seasons: A Wonderful Life",
+                    "genre": "Simulation",
+                    "release_date": "Jun 27",
+                    "platform": "PS5, Xbox Series X|S, Switch, PC",
+                    "description": "Story of Seasons: A Wonderful Life is about building a family as much as a farm, but both the farming and socializing fall short in comparison to modern farming sims. This could be a charming adventure with a literal lifetime of activities to do thanks to its aging process and speedy day-to-day gameplay.",
+                    "image": "https://drive.google.com/uc?export=view&id=1D1GHZ0UqcXugO0RyCM4J3BYBjYdiGuMm"
+                },
+                "30": {
+                    "game_name": "Yomi 2",
+                    "genre": "Card Game",
+                    "release_date": "Jun 26",
+                    "platform": "PC",
+                    "description": "Yomi 2 is a fighting card game. Pick your character deck, pick a gem to augment them, and fight an opponent. Like in a fighting game, you’ll block high and low attacks, throw overly defensive players, and perform combos of several attacks in a row.",
+                    "image": "https://drive.google.com/uc?export=view&id=1z2W6YRc-CssCusSpknLr5-QBv_WF4q5f"
+                }
+            },
+            "July": {
+                "31": {
+                    "game_name": "Oxenfree II: Lost Signals",
+                    "genre": "Adventure",
+                    "release_date": "Jul 12",
+                    "platform": "PS5, PS4, Switch, PC",
+                    "description": "Oxenfree II: Lost Signals is a narrative-driven adventure game. While gameplay is similar to Oxenfree, the sequel features new characters, mechanics, and areas. Players control Riley, a 30-something adult who returns to her hometown of Camena for a job.",
+                    "image": "https://drive.google.com/uc?export=view&id=1OoTR6avZtqUsKMQdftVUjxEagWCF0dSo"
+                },
+                "32": {
+                    "game_name": "My Friendly Neighborhood",
+                    "genre": "3D,Action,Adventure,Survival",
+                    "release_date": "Jul 18",
+                    "platform": "PC,PS5,XBSX",
+                    "description": " My Friendly Neighborhood is a survival-action horror game that will give you some good scares while making friends.  - The description of the August 14th My friendly Neighborhood trailer. The survival horror video game My Friendly Neighborhood was created by John and Evan Szymanski and released by DreadXP.",
+                    "image": "https://drive.google.com/uc?export=view&id=1ljdflOkVFg33_TRvHJzi1IpPgJAZnZ1z"
+                },
+                "33": {
+                    "game_name": "Nobunaga's Ambition: Awakening",
+                    "genre": "Turn-Based,Strategy",
+                    "release_date": "Jul 20",
+                    "platform": "PC,PS4,NS",
+                    "description": "NOBUNAGA'S AMBITION: Awakening features an abundant game content with scenarios and events that befit the 40th anniversary of the series, as well as elements from the previous titles such as customizing officers, scenarios, and creating new clans.",
+                    "image": "https://drive.google.com/uc?export=view&id=1lpxqVixz5bb3WWU5qDZf6Az6cdxQHoWJ"
+                },
+                "34": {
+                    "game_name": "ANVIL",
+                    "genre": "Action,Role-Playing",
+                    "release_date": "July 27",
+                    "platform": "PC",
+                    "description": "ANVIL is a multiplayer co-op top-down sci-fi roguelike action shooter where you control characters called Vault Breakers to explore various galaxies that are crawling with monsters. Find relics inside Vaults to increase Breaker's ability to survive and fight on this godforsaken galaxy.",
+                    "image": "https://drive.google.com/uc?export=view&id=16QmM1mAzuVToHYI436Sczl7HyhCCV3Mu"
+                },
+                "35": {
+                    "game_name": "Arcadian Atlas",
+                    "genre": "Strategy,Turn-Based",
+                    "release_date": "Jul 27",
+                    "platform": "PC,LNX,MAC,NS,XBSX,PS5",
+                    "description": "Arcadian Atlas is a narrative-driven isometric tactical turn-based RPG developed by Twin Otter Studios. Arcadia is a nation tearing itself apart through political factions and treacherous intrigues just as ancient evil forces begin to awaken.",
+                    "image": "https://drive.google.com/uc?export=view&id=1S3_6VocrMg1eYwcRatKNPDRI-fJCu9B-"
+                }
+            },
+            "August": {
+                "36": {
+                    "game_name": "Baldur's Gate 3",
+                    "genre": "Role-Playing",
+                    "release_date": "Oct 6",
+                    "platform": "PC,STA,MAC,PS5,XBSX",
+                    "description": "Baldur's Gate III is a role-playing game with turn-based combat. The non-combat exploration can either be top-down or in third-person view. The player creates their character, including their race and any class from the Player's Handbook.",
+                    "image": "https://drive.google.com/uc?export=view&id=1zPdhGizqj0lHU3H1o2dUzkJ-tVpzzyzp"
+                },
+                "37": {
+                    "game_name": "Gord",
+                    "genre": "Real-Time,Strategy",
+                    "release_date": "Aug 17",
+                    "platform": "PC,XBSX,PS5",
+                    "description": "Gord is a single-player adventure strategy. To survive, you must build, but to prevail, you must conquer the darkness beyond the gates. In this dark fantasy world, you must complete quests while managing a populace whose personal stories and well-being decide the fate of your tribe.",
+                    "image": "https://drive.google.com/uc?export=view&id=16JnsNP7vrdcamXBN8CQZwQjynrCd7NcY"
+                },
+                "38": {
+                    "game_name": "Stray",
+                    "genre": "Action,Adventure",
+                    "release_date": "Jul 19",
+                    "platform": "PS5,PC,PS4,XBSX,XONE,MAC",
+                    "description": "What is Stray? Lost, injured and alone, a stray cat must untangle an ancient mystery to escape a long-forgotten city. Stray is a third-person cat adventure game set amidst the detailed neon-lit alleys of a decaying cybercity and the murky environments of its seedy underbelly.",
+                    "image": "https://drive.google.com/uc?export=view&id=1_5Rp-l6rbAV5LxCYsQ0ULjjeQ5f33ToH"
+                },
+                "39": {
+                    "game_name": "Bomb Rush Cyberfunk",
+                    "genre": "3D,Platformer,Action",
+                    "release_date": "Aug 18",
+                    "platform": "PC,NS,XBSX,XONE,PS5,PS4",
+                    "description": "Bomb Rush Cyberfunk is a 3rd person platformer crossed with light Tony Hawk-style trick combo mechanics in a stylized cel-shaded future with a killer hip-hop soundtrack HEAVILY influenced by Sega's classic Jet Set Radio series.",
+                    "image": "https://drive.google.com/uc?export=view&id=1tRqSxbIMpknz4DGyAiogPwyuOEJVfWuH"
+                },
+                "40": {
+                    "game_name": "Armored Core VI: Fires of Rubicon",
+                    "genre": "Simulation",
+                    "release_date": "Aug 24",
+                    "platform": "PC,PS5,XBSX,PS4,XONE",
+                    "description": "Armored Core VI: Fires of Rubicon is a 2023 mecha-based vehicular combat game developed by FromSoftware and published by Bandai Namco Entertainment. The game serves as a reboot for the franchise, is the first entry in the Armored Core series since Armored Core: Verdict Day (2013) and was released for PlayStation 4, PlayStation 5, Windows, Xbox One, and Xbox Series X/S. Armored Core VI received generally favorable reviews and became the highest-selling entry in the series, selling 1.3 million copies on Windows alone.",
+                    "image": "https://drive.google.com/uc?export=view&id=1gKZEOQfaU8akvNRIFKW2Ag9YLQRr-kfE"
+                }
+            },
+            "September": {
+                "41": {
+                    "game_name": "Starfield",
+                    "genre": "Role-Playing",
+                    "release_date": "Sep 1",
+                    "platform": "PC,XBSX",
+                    "description": "Starfield is an action role-playing video game. The player can switch between a first-person and third-person perspective at any time. The game features an open world in the form of an area within the Milky Way galaxy, containing both fictional and non-fictional planetary systems.",
+                    "image": "https://drive.google.com/uc?export=view&id=1xsDFjz2GAOva1c5xOZlPwH59_c7YBkGv"
+                },
+                "42": {
+                    "game_name": "MythForce",
+                    "genre": "ActionRole-Playing",
+                    "release_date": "Apr 20",
+                    "platform": "PC,NS,XBSX,PS5,PS4,XONE",
+                    "description": "MythForce. Inspired by beloved Saturday morning cartoons, MythForce unites swords & sorcery with gripping 1st-person combat in a new roguelike adventure. Brave the dungeon alone or join forces with friends to take on an ever-changing Castle of Evil!",
+                    "image": "https://drive.google.com/uc?export=view&id=1jxtwKXX7D3wEVmtqOIUaMdehwNRK55dt"
+                },
+                "43": {
+                    "game_name": " Code Geass: Lost Stories",
+                    "genre": "Action",
+                    "release_date": "Jun 25",
+                    "platform": "IOS,AND",
+                    "description": "Code Geass: Lost Stories is a hero-collector RPG in disguise as it makes use of the innate gachapon system to give players opportunity to collect & use different Pilots. The gacha system is known as Scout in-game. Players can unlock this system after completing the tutorial.",
+                    "image": "https://drive.google.com/uc?export=view&id=1d-bQ97ikG666dfecfcnIQuEbGwo46L8-"
+                },
+                "44": {
+                    "game_name": "Monster Hunter Now",
+                    "genre": "Action,Role-Playing",
+                    "release_date": "Jun 30",
+                    "platform": "IOS,AND",
+                    "description": " Authentic hunting action carefully adapted to mobile: Discover a variety of monsters depending on the habitat around you – Forest, Desert or Swamp – and engage in thrilling hunts solo, or band together with fellow hunters to take on these large monsters.",
+                    "image": "https://drive.google.com/uc?export=view&id=1vRYEHxypXFpdf6z0JgY9-CC4U1Y9o18I"
+                },
+                "45": {
+                    "game_name": "Counter-Strike 2",
+                    "genre": "Action,First-Person,Shooter,Tactical",
+                    "release_date": "Sep 27",
+                    "platform": "PC",
+                    "description": "Counter-Strike 2 features major technical improvements over Global Offensive, including a move from the Source game engine to Source 2, improved graphics and new server architecture. In addition, many maps from Global Offensive were updated to use the features of Source 2, with some maps receiving complete overhauls.",
+                    "image": "https://drive.google.com/uc?export=view&id=1vGZc3Nsriu31uRamYhwUh5LT8A_ERYeB"
+                }
+            },
+            "Ocktober": {
+                "46": {
+                    "game_name": "Disgaea 7: Vows of the Virtueless",
+                    "genre": "Strategy,Turn-Based",
+                    "release_date": "Oct 3",
+                    "platform": "PS5,PS4,NSPC",
+                    "description": "Like its predecessor, Disgaea 7 is a tactical role-playing video game. The game follows Fuji, a demon warrior, and his companion Pirilika as they embark on an adventure in a netherworld named Hinomoto.",
+                    "image": "https://drive.google.com/uc?export=view&id=1uKX-Oi6uDmXQWbXaR84E9SDvaItO1XNU"
+                },
+                "47": {
+                    "game_name": "Assassin's Creed Mirage",
+                    "genre": "Adventure,Action",
+                    "release_date": "Oct 5",
+                    "platform": "PS5,XBSX,PC,PS4,XONE,IOS",
+                    "description": "A Powerful Coming-Of-Age Story. Discover a narrative-driven action-adventure experience that follows the transformation of a defiant young man into a refined Master Assassin with a conflicted destiny.",
+                    "image": "https://drive.google.com/uc?export=view&id=1zNWWj4ku91dczaqzxYsW9B94Z2Xzi_nB"
+                },
+                "48": {
+                    "game_name": "My Little Universe",
+                    "genre": "Action,Adventure",
+                    "release_date": "Oct 5",
+                    "platform": "IOS,AND,PC,NS,MAC",
+                    "description": "It takes ⛏️ mining, crafting, logging, digging, smelting, construction and a little gardening to make the perfect planet, and you'll have to do all that while fighting off primeval monsters 🐙 intent on bringing an end to your divine plan.",
+                    "image": "https://drive.google.com/uc?export=view&id=1aD9ZofFemX1H5aQRBQcAITg05Dieo-bu"
+                },
+                "49": {
+                    "game_name": "Sweet Dreams Alex",
+                    "genre": "Action,Puzzle",
+                    "release_date": "Oct 5",
+                    "platform": "LNX,PC,MAC",
+                    "description": "Alex is still small, but her dreams are big. You are her Dream Builder, tasked with constructing labyrinths full of distractions to keep Nightmares away until the morning comes. Sweet Dreams Alex is a wholesome puzzle game, filled to the brim with atmosphere and charm.",
+                    "image": "https://drive.google.com/uc?export=view&id=1MD9K-1CaTpkSDZhRt3GpOiUX6tKaWGwe"
+                },
+                "50": {
+                    "game_name": "Forza Motorsport 7",
+                    "genre": "Driving/Racing,Simulation",
+                    "release_date": "Oct 10",
+                    "platform": "Xbox Series X|S, PC",
+                    "description": "Forza Motorsport is a sim racing video game. At launch, Forza Motorsport is projected to have more than 500 vehicles and 800 upgrades, as well as 20 newly built tracks. Approximately 80 vehicles from all eras and racing vehicle kinds are among the vehicles that have been announced so far.",
+                    "image": "https://drive.google.com/uc?export=view&id=1X0EBX_tqgB9IhmNBnZFRO5Uo4es5WO1K"
+                }
+            },
+            "November": {
+                "51": {
+                    "game_name": "achilles: Legends Untold",
+                    "genre": "Action,Role-Playing",
+                    "release_date": "May 12",
+                    "platform": "PS5, Xbox Series X|S, PC",
+                    "description": "achilles: Legends Untold is an action RPG featuring souls-like combat mechanics, set in the mythical world of ancient Greece, where you assume the role of the fearless warrior, Achilles. For the best gameplay experience, we recommend playing with a controller.",
+                    "image": "https://drive.google.com/uc?export=view&id=1Ws0n32__K4POAA6x85NOavc0wbbiMnjD"
+                },
+                "52": {
+                    "game_name": "Warcraft Rumble",
+                    "genre": "Real-Time,Strategy",
+                    "release_date": "Nov 3",
+                    "platform": "iOS, Android",
+                    "description": "Warcraft Rumble is a free-to-play mobile action strategy game set within the Warcraft universe where players build armies with their heroes and villains from Warcraft and battle it out in scenarios designed to test their tactical wits. The game was announced by Blizzard Entertainment on May 3, 2022 as Warcraft Arclight Rumble.",
+                    "image": "https://drive.google.com/uc?export=view&id=1rDFhgmevMSVD7abII3XkcP9g9FU5TX2D"
+                },
+                "53": {
+                    "game_name": "Call of Duty: Modern Warfare III",
+                    "genre": "First-Person,Shooter,Tactical,Action",
+                    "release_date": "Nov 10",
+                    "platform": "PS5, PS4, Xbox Series X|S, Xbox One, PC",
+                    "description": "Warcraft® Rumble™ is a mobile action strategy game set within the Warcraft universe where collectible Minis come to life to battle in frantic melee skirmishes. Play in multiple modes, including the single player campaign, going head-to-head in epic PvP battles, and more. Experience the true meaning of joyful chaos!",
+                    "image": "https://drive.google.com/uc?export=view&id=1NULgykqakCYkCKCpJev797f-hqPBkhXt"
+                },
+                "54": {
+                    "game_name": "Ascent of Ashes",
+                    "genre": "Real-Time,Strategy",
+                    "release_date": "Nov 15",
+                    "platform": "PC",
+                    "description": "Summary A colony sim set in a post-apocalyptic dystopia. Build and defend your base. Manage your survivors. Engage raiders, aliens, Remnant soldiers and other factions in real-time-with-pause combat.",
+                    "image": "https://drive.google.com/uc?export=view&id=1PIrNQX19fKMcr2snDsV-6tJJbkwTBVWb"
+                },
+                "55": {
+                    "game_name": "Persona 5 Tactica",
+                    "genre": "Turn-Based,Strategy",
+                    "release_date": "Nov 17",
+                    "platform": "PS5, PS4, Xbox Series X|S, Xbox One, Switch, PC",
+                    "description": "Gameplay. Persona 5 Tactica is a tactical role-playing video game in which the player controls a party of up to three characters on a grid-based map populated by enemy units, who are directly confronted through the initiation of turn-based encounters.",
+                    "image": "https://drive.google.com/uc?export=view&id=13qRhlSae8xqonpZVmiFmiwykSohBgOZ0"
+                }
+            },
+            "December": {
+                "56": {
+                    "game_name": "batman: Arkham Trilogy",
+                    "genre": "Compilation",
+                    "release_date": "Dec 1",
+                    "platform": "Nintendo Switch",
+                    "description": "batman: Arkham Trilogy is a compilation of Rocksteady Studios%E2%80%99 award-winning videogames that brings together the critically acclaimed Batman: Arkham Asylum, Batman: Arkham City, Batman: Arkham Knight, and all previously released downloadable content (DLC) in one iconic package for Nintendo Switch.",
+                    "image": "https://drive.google.com/uc?export=view&id=1v8Vl_hh1MlSBqh8AStexZ2oyrtPjWzr3"
+                },
+                "57": {
+                    "game_name": "The Lost Legends of Redwall: The Scout - Anthology",
+                    "genre": "Compilation",
+                    "release_date": "Dec 1",
+                    "platform": "PC,PlayStation 5,Xbox Series X",
+                    "description": "The Scout is a linear action-adventure game told in three acts. Play as Liam or Sophia, the newest member of the Lilygrove Scout Corps, as the young mice find themselves on the journey of a lifetime to save their home from ruthless pirates. Will they reach Redwall and save their friends before all is lost?",
+                    "image": "https://drive.google.com/uc?export=view&id=1gbtPIX8VZ0DYdA0cA7b2sGKr3dSAPKHE"
+                },
+                "58": {
+                    "game_name": "Disney Dreamlight Valley",
+                    "genre": "Simulation",
+                    "release_date": "Dec 5",
+                    "platform": "PS5, PS4, Xbox Series X|S, Xbox One, Switch, PC",
+                    "description": "Disney Dreamlight Valley is a hybrid between a life-sim and an adventure game rich with quests, exploration, and engaging activities featuring Disney and Pixar friends, both old and new. Once an idyllic land, Dreamlight Valley was a place where Disney and Pixar characters lived in harmony—until the Forgetting.",
+                    "image": "https://drive.google.com/uc?export=view&id=1UsW9aUShDwoDJ6GRC6HmH0tM3A4sSpYU"
+                },
+                "59": {
+                    "game_name": "Arizona Sunshine 2",
+                    "genre": "Shooter,Action,Light-Gun",
+                    "release_date": "Dec 7",
+                    "platform": "PS5,PC,OQ",
+                    "description": "It's time to say hello to your old pal, Fred. Arizona Sunshine® 2, the next-gen sequel to the fan-favorite VR apocalypse, packs even more gore-geous zombie action! And what's better than braving the end of the f*cking world alone? Surviving it with your new best friend--Buddy.",
+                    "image": "https://drive.google.com/uc?export=view&id=17FaMh9aDwA_Jjj4-vo2QRfIErMov8W-X"
+                },
+                "60": {
+                    "game_name": "Warhammer 40,000: Rogue Trader",
+                    "genre": "Role-Playing",
+                    "release_date": "Dec 7",
+                    "platform": "PC, PS5, Xbox Series X|S",
+                    "description": "Warhammer 40,000: Rogue Trader is a game about one of the most powerful groups of people in the far future of the 42nd millennium: the titular Rogue Traders. But every good Rogue Trader is backed up by a crew of allies, ranging from close confidants to powerful goons.",
+                    "image": "https://drive.google.com/uc?export=view&id=1M6vrUOr9sM22KOJ5uO1zC66L_DpjVyUS"
+                }
+            }
+        }
+    }
+}
