@@ -1,11 +1,26 @@
+import 'dart:async';
+
 import 'package:flutter/material.dart';
 
 import 'homepage.dart';
+import 'login.dart';
 
-class SplashScreen extends StatelessWidget {
-  // ignore: use_key_in_widget_constructors
-  const SplashScreen({Key? key});
-  
+class SplashScreen extends StatefulWidget {
+  @override
+  _SplashScreenState createState() => _SplashScreenState();
+}
+  class _SplashScreenState extends State<SplashScreen> {
+  @override
+  void initState() {
+    super.initState();
+    Timer(
+      const Duration(seconds: 3), 
+      () => Navigator.pushReplacement(
+        context,
+        MaterialPageRoute(builder: (context) => login()),
+      ),
+    );
+  }
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -27,7 +42,7 @@ class SplashScreen extends StatelessWidget {
                   Navigator.push(
                     context,
                     MaterialPageRoute(
-                      builder: (context) => const HomePage(),
+                      builder: (context) =>  HomePage(),
                     ),
                   );
                 },

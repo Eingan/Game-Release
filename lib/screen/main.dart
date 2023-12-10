@@ -1,7 +1,17 @@
+import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
-import 'splashscreen.dart';
+import 'package:game_release/screen/splashscreen.dart';
 
-void main() {
+import 'firebase_options.dart';
+import 'login.dart';
+import 'navigation.dart';
+import 'register.dart';
+
+Future<void> main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+  await Firebase.initializeApp(
+    options: DefaultFirebaseOptions.currentPlatform,
+  );
   runApp(const MainApp());
 }
 
@@ -11,8 +21,14 @@ class MainApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return  const MaterialApp(
+    return MaterialApp(
+      debugShowCheckedModeBanner: false,
       home: SplashScreen(),
+      routes: {
+        '/home' : (context) => const Navigation(),
+        '/login':(context) =>  const login(),
+           '/register':(context) => const Register()
+      },
     );
   }
 }
